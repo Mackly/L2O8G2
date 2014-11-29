@@ -1,3 +1,11 @@
+
+# Visual Studio files
+Debug/
+*vcxproj
+*.sln
+*.sdf
+*.v12.suo
+
 # Compiled Object files
 *.slo
 *.lo
